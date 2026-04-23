@@ -1,0 +1,13 @@
+/ringbuzz
+/dist/
+*.test
+*.out
+
+# Local dev state — real state lives in ~/.config/ringbuzz/
+/state/
+/hap/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
