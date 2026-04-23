@@ -4,6 +4,7 @@ go 1.24.0
 
 require (
 	github.com/BurntSushi/toml v1.6.0
+	github.com/brutella/dnssd v1.2.14
 	github.com/brutella/hap v0.0.35
 	github.com/mdp/qrterminal/v3 v3.2.1
 	github.com/spf13/cobra v1.10.2
@@ -11,7 +12,6 @@ require (
 )
 
 require (
-	github.com/brutella/dnssd v1.2.14 // indirect
 	github.com/go-chi/chi v1.5.4 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/miekg/dns v1.1.61 // indirect
